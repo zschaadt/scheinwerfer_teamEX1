@@ -16,9 +16,9 @@ BMW
   wettbewerbsfaehig 
   Mehlhase 
   Gebaeck
-Baeckerei
-  Hund
-  Doener
-  Apfelkuchen
-  Schloss
-  Eltz
+Baeckerei - Bakery
+  Hund - Dog
+  Doener - A type of sandwich in Germany
+  Apfelkuchen - Apple Cake
+  Schloss - lock
+  Eltz - A Castle in the middle of Eltz forest
