@@ -1,24 +1,51 @@
+<<<<<<< HEAD
 Raesfeld
-  Flughafen 
-  Berlin 
-  Bratwurst 
-  Hauptstrasse 
-  Brot 
-  Klimaanlage - air conditioner
-  Rammstein - popular German band
-  Porsche - German car manufacturer
+Flughafen 
+Berlin 
+Bratwurst 
+Hauptstrasse 
+Brot 
+Klimaanlage - air conditioner
+Rammstein - popular German band
+Porsche - German car manufacturer
 BMW - German car manufacturer
-  Biergarten - beer garden, an outdoor area where beer is served
-  Ratskeller - a usually basement tavern or restaurant
-  Dirndel 
-  Lederhose 
-  Schloss 
-  wettbewerbsfaehig 
-  Mehlhase 
-  Gebaeck
+Biergarten - beer garden, an outdoor area where beer is served
+Ratskeller - a usually basement tavern or restaurant
+Dirndel 
+Lederhose 
+Schloss 
+wettbewerbsfaehig 
+Mehlhase 
+Gebaeck
 Baeckerei
-  Hund
-  Doener
-  Apfelkuchen
-  Schloss
-  Eltz
+Hund
+Doener
+Apfelkuchen
+Schloss
+Eltz
+=======
+Raesfeld = Raesfeld (municipality in Germany)
+Flughafen = Airport
+Berlin = Berlin (capital of Germany)
+Bratwurst = Bratwurst (German sausage)
+Hauptstrasse = Main road
+Brot = Bread
+Klimaanlage 
+Rammstein 
+Porsche
+BMW
+Biergarten 
+Ratskeller 
+Dirndel 
+Lederhose 
+Schloss 
+wettbewerbsfaehig 
+Mehlhase 
+Gebaeck
+Baeckerei - Bakery
+Hund - Dog
+Doener - A type of sandwich in Germany
+Apfelkuchen - Apple Cake
+Schloss - lock
+Eltz - A Castle in the middle of Eltz forest
+>>>>>>> a33872328a7c235e0d65382a2cb1a12f083b375f
