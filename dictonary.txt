@@ -1,24 +1,24 @@
-Raesfeld
-  Flughafen 
-  Berlin 
-  Bratwurst 
-  Hauptstrasse 
-  Brot 
-  Klimaanlage 
-  Rammstein 
-  Porsche
+Raesfeld = Raesfeld (municipality in Germany)
+Flughafen = Airport
+Berlin = Berlin (capital of Germany)
+Bratwurst = Bratwurst (German sausage)
+Hauptstrasse = Main road
+Brot = Bread
+Klimaanlage 
+Rammstein 
+Porsche
 BMW
-  Biergarten 
-  Ratskeller 
-  Dirndel 
-  Lederhose 
-  Schloss 
-  wettbewerbsfaehig 
-  Mehlhase 
-  Gebaeck
+Biergarten 
+Ratskeller 
+Dirndel 
+Lederhose 
+Schloss 
+wettbewerbsfaehig 
+Mehlhase 
+Gebaeck
 Baeckerei
-  Hund
-  Doener
-  Apfelkuchen
-  Schloss
-  Eltz
+Hund
+Doener
+Apfelkuchen
+Schloss
+Eltz
