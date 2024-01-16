@@ -10,12 +10,12 @@ Raesfeld
 BMW
   Biergarten 
   Ratskeller 
-  Dirndel 
-  Lederhose 
-  Schloss 
-  wettbewerbsfaehig 
-  Mehlhase 
-  Gebaeck
+  Dirndel- Traditional Bavarian or Austrian dress
+  Lederhose- Leather shorts
+  Schloss- Castle
+  wettbewerbsfaehig- Competitive
+  Mehlhase - Flour rabbit
+  Gebaeck - Pastries or baked goods
 Baeckerei
   Hund
   Doener
